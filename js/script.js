@@ -1,4 +1,5 @@
 /* Creazione Oggetto studente (nome, cognome, età) */
+const studente = {nome:"Fiat", cognome:"500", età:"white"};
 
 /* Output proprietà oggetto con for-in */
 
